@@ -1,0 +1,7 @@
+# Block Adult sites
+# Homepage: https://github.com/skynup/blacklist
+# Licence: https://github.com/skynup/blacklist/blob/main/LICENSE
+# Title: skynup's Blacklists
+# Domain count: 0
+# ===================================================================
+0.0.0.0 Perchance.org
