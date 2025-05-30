@@ -4,5 +4,5 @@
 # Title: skynup's Blacklists
 # Domain count: 0
 # ===================================================================
-perchance.org
-www.perchance.org
+0.0.0.0 perchance.org
+0.0.0.0 www.perchance.org
